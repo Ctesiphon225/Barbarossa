@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4a7a38da8fff647878407938bff534, type: 3}
+  m_Name: Cavalry
+  m_EditorClassIdentifier: 
+  className: Cavalry
+  unitClass: 1
+  offense: 5
+  defense: 4
+  damage: 4
+  armour: 0
+  penetration: 10
+  organization: 100
+  recovery: 1.3
+  health: 100
+  support: 0.13
+  movementSpeed: 3
+  lineOfSight: 3
+  image: {fileID: 21300000, guid: fd6405f247dc3c34ca366219e70fcb98, type: 3}
+  icon: {fileID: 21300000, guid: dc7c3fb59b189df46a2ba71be4b7e816, type: 3}
+  country: 8

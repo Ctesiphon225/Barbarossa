@@ -1,0 +1,4 @@
+Name:testmap2
+Description:This is a test map.
+Size:20x20
+Players:2

@@ -1,0 +1,30 @@
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains,plains
+Rivers
+Railroads
+Players
+Players
+Germany 1 1 1 human Axis
+Poland 0,9 0,5 0,5 computer Allies
+Units
+Trenches
+Fortresses
+Airports

@@ -1,0 +1,7 @@
+Name:Test Map
+
+Description:This is a test map.
+
+Size:10x5
+
+Players:3
